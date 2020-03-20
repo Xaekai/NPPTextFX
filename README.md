@@ -12,7 +12,7 @@ Currently, some plugins are taking over some areas where TextFX is being used:
 
 When the list grows long enough, it will become practical to bid farewell to an aging workhorse that has served the community well.
 
-See http://docs.notepad-plus-plus.org/index.php/TextFX%27s_Future for above statement.
+See [http://docs.notepad-plus-plus.org/index.php/TextFX%27s_Future](http://web.archive.org/web/20190220050411/http://docs.notepad-plus-plus.org/index.php/TextFX's_Future) for above statement.
 
 # GitHub fork
 Regardless what's been said before, there are people who would like to continue using TextFX. As the project has been dead for 9 years, it was about time to do something about it.
